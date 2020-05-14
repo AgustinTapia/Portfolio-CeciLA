@@ -1,5 +1,5 @@
 ---
-title: "Post1"
+title: "Plantas"
 date: 2020-05-13T23:02:50-05:00
 draft: false
 cover: "prueba.png"
