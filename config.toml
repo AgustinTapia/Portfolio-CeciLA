@@ -29,9 +29,6 @@ hasCJKLanguage = true
   description = "CeciLA Portafolio"
   avatar = "/me/yy.jpg"
   motto = "Este es mi portafolio"
-  categories: ["category1"]
-  tags: ["tag1", "tag2"]
-  # showcase: true
   
   email = "cecila@gmail.com"
   twitter = "CeciLA"
